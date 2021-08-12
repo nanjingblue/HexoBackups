@@ -106,5 +106,5 @@ deploy:
   # repo: git@github.com:cherrysea/cherrysea.github.io.git
   repo: 
     github: git@github.com:cherrysea/cherrysea.github.io.git
-    cherry: git@192.168.153.131:/home/git/blog.git
+    # cherry: git@192.168.153.131:/home/git/blog.git
   branch: master
